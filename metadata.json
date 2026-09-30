@@ -1,0 +1,6 @@
+{
+  "name": "FlowBridge - n8n Webhook & Form Hub",
+  "description": "High-conversion website and automation portal seamlessly connected to your n8n cloud workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
